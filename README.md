@@ -20,3 +20,6 @@ https://prod-apnortheast-a.online.tableau.com/t/sjcphysicsdeptnm/views/Listofmos
 
 #Website link
 https://prod-apnortheast-a.online.tableau.com/#/site/sjcphysicsdeptnm/home
+
+#Demonstration video link
+https://drive.google.com/file/d/1UXWHtOPARXETPr_6mNNFnj3iGzSe5ezl/view?usp=drivesdk
